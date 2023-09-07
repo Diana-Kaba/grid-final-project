@@ -115,8 +115,8 @@ h2 {
   font-size: 1.07rem;
 }
 
-/* Banner */
-#bnr {
+/* ITVDN */
+#itvdn {
   grid-area: ad;
   background-image: url("imgs/itvdn-logo.jpg");
   background-position: center;
@@ -128,7 +128,7 @@ h2 {
   margin: 0 auto;
 }
 
-#bnr p {
+#itvdn p {
   text-transform: uppercase;
   padding: 10px;
 }
@@ -191,12 +191,12 @@ h2 {
     margin: 0 auto;
   }
 
-  #bnr {
+  #itvdn {
     margin: 0 auto;
     width: auto;
   }
 
-  #bnr p {
+  #itvdn p {
     padding: 0;
     font-size: 14px;
   }
@@ -231,12 +231,12 @@ h2 {
     margin: 0 auto;
   }
 
-  #bnr {
+  #itvdn {
     width: 20rem;
     margin: 0;
   }
 
-  #bnr p {
+  #itvdn p {
     padding: 10px;
     font-size: 16px;
   }
