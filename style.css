@@ -115,8 +115,8 @@ h2 {
   font-size: 1.07rem;
 }
 
-/* Advertising */
-#adver {
+/* Banner */
+#bnr {
   grid-area: ad;
   background-image: url("imgs/itvdn-logo.jpg");
   background-position: center;
@@ -128,7 +128,7 @@ h2 {
   margin: 0 auto;
 }
 
-#adver p {
+#bnr p {
   text-transform: uppercase;
   padding: 10px;
 }
@@ -191,12 +191,12 @@ h2 {
     margin: 0 auto;
   }
 
-  #adver {
+  #bnr {
     margin: 0 auto;
     width: auto;
   }
 
-  #adver p {
+  #bnr p {
     padding: 0;
     font-size: 14px;
   }
@@ -231,12 +231,12 @@ h2 {
     margin: 0 auto;
   }
 
-  #adver {
+  #bnr {
     width: 20rem;
     margin: 0;
   }
 
-  #adver p {
+  #bnr p {
     padding: 10px;
     font-size: 16px;
   }
